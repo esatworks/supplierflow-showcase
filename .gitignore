@@ -1,0 +1,11 @@
+# Keep private application materials out of this public visual archive.
+*.zip
+*.tar
+*.tar.gz
+*.sqlite
+*.db
+.env
+.env.*
+instance/
+__pycache__/
+*.pyc
